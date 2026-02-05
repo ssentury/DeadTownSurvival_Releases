@@ -1,6 +1,6 @@
 # Dead Town Survival
 
-**Dead Town Survival** is the official release repository for the game.  
+The official release repository for the game Dead Town Survival.
 This repository provides downloadable builds for supported platforms.
 
 ---
